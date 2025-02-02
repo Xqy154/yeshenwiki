@@ -1,9 +1,8 @@
-import { defaultTheme } from '@vuepress/theme-default'
+import { defineUserConfig } from "vuepress";
 
 import theme from "./theme.js";
 
-export default {
-  theme: defaultTheme({
+export default defineUserConfig({
   base: "/yeshenwiki/",
 
   lang: "zh-CN",
@@ -14,7 +13,4 @@ export default {
 
   // 和 PWA 一起启用
   // shouldPrefetch: false,
-  }),
-}
-
-
+});
