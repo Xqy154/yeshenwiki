@@ -7,7 +7,7 @@ heroImage: https://theme-hope-assets.vuejs.press/logo.svg
 heroText: 凌云仙梦
 heroFullScreen: true
 tagline: 凌云之境 璀璨华光 踏破云霄 共赏仙景
-bgImage: https://xqy154.github.io/yeshenwiki/src/.vupress/public/images/xuanchuantu1920x1080.jpg
+bgImage: https://xqy154.github.io/yeshenwiki/src/.vupress/public/assets/images/xuanchuantu1920x1080.jpg
 projects:
   - icon: laptop-code
     name: 跳转qq群
