@@ -4,6 +4,7 @@ import navbar from "./navbar.js";
 import sidebar from "./sidebar.js";
 
 export default hopeTheme({
+  darkmode: "disable",
   hostname: "https://mister-hope.github.io",
 
   author: {
