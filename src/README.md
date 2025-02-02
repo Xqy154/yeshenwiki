@@ -6,8 +6,6 @@ title: 凌云仙梦群组服
 heroImage: https://theme-hope-assets.vuejs.press/logo.svg
 heroText: 凌云仙梦
 heroFullScreen: true
-layout: BlogHome
-home: true
 tagline: 凌云之境 璀璨华光 踏破云霄 共赏仙景
 projects:
   - icon: link
