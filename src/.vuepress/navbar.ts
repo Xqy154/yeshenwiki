@@ -11,7 +11,7 @@ export default navbar([
       {
         text: "苹果",
         icon: "pen-to-square",
-        prefix: "/教程/",
+        prefix: "教程/",
         children: [
           { text: "新手教程", icon: "pen-to-square", link: "1" },
           { text: "苹果2", icon: "pen-to-square", link: "2" },
