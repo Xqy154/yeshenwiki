@@ -9,9 +9,9 @@ heroFullScreen: true
 tagline: 你可以在这里放置你的口号与标语
 projects:
   - icon: folder-open
-    name: 项目名称
-    desc: 项目详细描述
-    link: https://你的项目链接
+    name: 跳转qq群
+    desc: 点击跳转凌云仙梦qq群
+    link: https://qm.qq.com/q/C0PSneejbW
 
   - icon: link
     name: 链接名称
