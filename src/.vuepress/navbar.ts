@@ -9,7 +9,7 @@ export default navbar([
     prefix: "/posts/",
     children: [
       {
-        text: "苹果",
+        text: "功能详细",
         icon: "pen-to-square",
         prefix: "教程/",
         children: [

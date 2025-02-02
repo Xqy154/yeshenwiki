@@ -8,12 +8,12 @@ heroText: 凌云仙梦
 heroFullScreen: true
 tagline: 凌云之境 璀璨华光 踏破云霄 共赏仙景
 projects:
-  - icon: link
+  - icon: laptop-code
     name: 跳转qq群
     desc: 点击跳转凌云仙梦qq群
     link: https://qm.qq.com/q/C0PSneejbW
 
-  - icon: link
+  - icon: laptop-code
     name: 服务器Minebbs帖子
     desc: 点击跳转服务器Minebbs帖子
     link: https://www.minebbs.com/threads/1-12-2-rpg.31000/
