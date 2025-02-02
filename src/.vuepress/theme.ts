@@ -35,10 +35,10 @@ export default hopeTheme({
       Email: "1549386753@qq.com",
       GitHub: "https://github.com/Xqy154",
       QQ: "https://qm.qq.com/cgi-bin/qm/qr?k=xDFBeLurNbuggO2PlFJWzXNuZ2ImoXAi",
-      VuePressThemeHope: {
-        icon: "https://theme-hope-assets.vuejs.press/logo.svg",
-        link: "https://theme-hope.vuejs.press",
-      },
+      // VuePressThemeHope: {
+      //   icon: "https://theme-hope-assets.vuejs.press/logo.svg",
+      //   link: "https://theme-hope.vuejs.press",
+      // },
     },
   },
 

@@ -6,7 +6,7 @@ export default defineUserConfig({
   base: "/yeshenwiki/",
 
   lang: "zh-CN",
-  title: "博客演示",
+  title: "凌云仙梦",
   description: "vuepress-theme-hope 的博客演示",
 
   theme,
