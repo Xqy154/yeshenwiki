@@ -22,6 +22,8 @@ projects:
     name: 更新日志
     desc: 展示服务器更新日志与细节
     link: https://www.yuque.com/yuqueyonghugnopwy/onw2df/lz0fywgd1xehs17w?#
+  
+bgImage: https://xqy154.github.io/yeshenwiki/src/.vupress/public/images/xuanchuantu1920x1080.jpg
 
   # - icon: newspaper
   #   name: 文章名称
