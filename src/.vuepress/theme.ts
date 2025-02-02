@@ -47,8 +47,8 @@ export default hopeTheme({
   encrypt: {
     config: {
       "/demo/encrypt.html": {
-        hint: "Password: 125436",
-        password: "125436",
+        hint: "输入密码查看自闭的小啾啾",
+        password: "123456",
       },
     },
   },
