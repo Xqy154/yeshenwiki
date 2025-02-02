@@ -29,13 +29,12 @@ export default hopeTheme({
 
   // 博客相关
   blog: {
-    description: "一个前端开发者",
+    description: "一个服务器开发者",
     intro: "/intro.html",
     medias: {
-      Email: "mailto:info@example.com",
-      GitHub: "https://example.com",
-      QQ: "https://example.com",
-      Wechat: "https://example.com",
+      Email: "1549386753@qq.com",
+      GitHub: "https://github.com/Xqy154",
+      QQ: "https://qm.qq.com/cgi-bin/qm/qr?k=xDFBeLurNbuggO2PlFJWzXNuZ2ImoXAi",
       VuePressThemeHope: {
         icon: "https://theme-hope-assets.vuejs.press/logo.svg",
         link: "https://theme-hope.vuejs.press",
@@ -47,8 +46,8 @@ export default hopeTheme({
   encrypt: {
     config: {
       "/demo/encrypt.html": {
-        hint: "Password: 1234",
-        password: "1234",
+        hint: "Password: 125436",
+        password: "125436",
       },
     },
   },
