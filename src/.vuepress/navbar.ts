@@ -14,21 +14,27 @@ export default navbar([
         prefix: "教程/",
         children: [
           { text: "新手教程", icon: "pen-to-square", link: "1" },
-          { text: "苹果2", icon: "pen-to-square", link: "2" },
-          "3",
-          "4",
+          { text: "饰品大全", icon: "pen-to-square", link: "2" },
           {
-            text: "香蕉 1",
+            text: "怪物图鉴",
+            icon: "pen-to-square",
+            link: "3",
+          },
+          {
+            text: "装备大全",
+            icon: "pen-to-square",
+            link: "4",
+          },
+          {
+            text: "城市概况",
             icon: "pen-to-square",
             link: "5",
           },
           {
-            text: "香蕉 2",
+            text: "道具大全",
             icon: "pen-to-square",
             link: "6",
           },
-          "3",
-          "4",
         ],
       },
 
